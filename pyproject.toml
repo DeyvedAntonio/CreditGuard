@@ -22,4 +22,5 @@ build-backend = "poetry.core.masonry.api"
 ruff = "^0.15.4"
 pytest = "^9.0.2"
 mkdocs = "^1.6.1"
+faker = "^40.8.0"
 
